@@ -1,0 +1,69 @@
+{
+	"homePageContent": [{
+		"bannerContent": {
+			"bannerType": "stack",
+			"bannerItems": [{
+				"redirectsTo": "cat1",
+				"image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-demo-flutter.appspot.com/o/imgs%2F2730017.jpg?alt=media&token=e3334591-a6d1-4cc5-affa-73b378a4134a",
+				"type": "CLP"
+			},
+			{
+				"redirectsTo": "cat2",
+				"image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-demo-flutter.appspot.com/o/imgs%2FMOBILE_BANNER__B_copy_2-Last.jpg?alt=media&token=0c895b7c-7f8a-4df4-8424-628a4e52303e",
+				"type": "CLP"
+			},
+			{
+				"redirectsTo": "cat3",
+				"image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-demo-flutter.appspot.com/o/imgs%2Fa62932182702914fcf73d1f178fa4c16.jpg?alt=media&token=dbb769da-0f89-49d1-9175-b9fb95c6fb88",
+				"type": "CLP"
+			},
+			{
+				"redirectsTo": "cat4",
+				"image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-demo-flutter.appspot.com/o/imgs%2Fblack-friday-purple-pink-ribbon-sale-banner-design-free-vector.jpg?alt=media&token=442c696a-688f-4ee1-80c6-926751688dc6",
+				"type": "CLP"
+			},
+			{
+				"redirectsTo": "cat5",
+				"image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-demo-flutter.appspot.com/o/imgs%2Fblack-friday-purple-pink-shapes-sale-banner-design-free-vector.webp?alt=media&token=d862ae90-aed0-4f94-8d3f-270b1d36d8c9",
+				"type": "CLP"
+			},
+			{
+				"redirectsTo": "cat6",
+				"image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-demo-flutter.appspot.com/o/imgs%2Fdubai-with-mauritius-tour-package-banners-design.jpg?alt=media&token=cf39222b-afb6-4ecf-afdd-4f4ebbf5f44b",
+				"type": "CLP"
+			}]
+		},
+		"type": "banner"
+	}, {
+		"carouselContent": {
+			"name": "Decora tu casa",
+			"recommendedItems": [{
+				"id": 1,
+				"largeImage": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+			}, {
+				"id": 2,
+				"largeImage": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+			}, {
+				"id": 3,
+				"largeImage": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+			}, {
+				"id": 4,
+				"largeImage": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+			}, {
+				"id": 5,
+				"largeImage": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+			}, {
+				"id": 6,
+				"largeImage": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+			}, {
+				"id": 7,
+				"largeImage": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+			}]
+		},
+		"type": "carousel"
+	}],
+	"status": {
+		"status": "OK",
+		"statusCode": 0
+	}
+}
