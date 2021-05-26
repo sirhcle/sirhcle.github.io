@@ -14,29 +14,24 @@
 			},
 			{
 				"redirectsTo": "cat3",
-				"image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-demo-flutter.appspot.com/o/imgs%2Fa62932182702914fcf73d1f178fa4c16.jpg?alt=media&token=dbb769da-0f89-49d1-9175-b9fb95c6fb88",
+				"image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-demo-flutter.appspot.com/o/imgs%2Ffashion1.jpg?alt=media&token=de706be7-aea2-4c3f-a0c3-2f36ee6e09c4",
 				"type": "CLP"
 			},
 			{
 				"redirectsTo": "cat4",
 				"image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-demo-flutter.appspot.com/o/imgs%2Fblack-friday-purple-pink-ribbon-sale-banner-design-free-vector.jpg?alt=media&token=442c696a-688f-4ee1-80c6-926751688dc6",
-				"type": "CLP"
+				"type": "BLP"
 			},
 			{
 				"redirectsTo": "cat5",
-				"image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-demo-flutter.appspot.com/o/imgs%2Fblack-friday-purple-pink-shapes-sale-banner-design-free-vector.webp?alt=media&token=d862ae90-aed0-4f94-8d3f-270b1d36d8c9",
-				"type": "CLP"
-			},
-			{
-				"redirectsTo": "cat6",
-				"image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-demo-flutter.appspot.com/o/imgs%2Fdubai-with-mauritius-tour-package-banners-design.jpg?alt=media&token=cf39222b-afb6-4ecf-afdd-4f4ebbf5f44b",
+				"image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-demo-flutter.appspot.com/o/imgs%2Ffashion2.jpg?alt=media&token=c461db7f-3f72-4a4f-8992-c38cb7c47a03",
 				"type": "CLP"
 			}]
 		},
 		"type": "banner"
 	}, {
 		"carouselContent": {
-			"name": "Decora tu casa",
+			"name": "Destacados",
 			"recommendedItems": [{
 				"id": 1,
 				"largeImage": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
